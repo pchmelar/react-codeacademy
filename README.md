@@ -6,7 +6,7 @@
 - I advise you to take the courses and use this summary only to recall the syntax
 - Also please note that these courses do not use ES6 syntax
 
-# Content
+# CONTENT
 
 1. [UNIT 1: JSX](#unit-1-jsx)
   1. [Basic syntax](#basic-syntax)
